@@ -1,5 +1,6 @@
-hello git
+hello gitx
 second
 third - my branch
 fourth - my branch
 some hot fix
+기능 1 추가
